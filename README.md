@@ -1,4 +1,6 @@
-My first eCommerce website for a small business. (Profile: Gardening tools)
+*(I work on it in my free time)*
+
+My first eCommerce website. (Profile: Gardening tools)
 
 ## Tech Stack:
 - Frontend:
